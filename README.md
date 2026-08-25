@@ -2,7 +2,7 @@
 
 # Parth Jadhav
 
-Building full-stack applications — from Java backends and REST APIs to responsive web products and data-driven systems.
+Focused on building reliable backend systems, full-stack applications, and data-driven software.
 
 <samp>
 <a href="YOUR_PORTFOLIO_URL">portfolio</a> ·
