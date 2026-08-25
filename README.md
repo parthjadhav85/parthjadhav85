@@ -5,10 +5,10 @@
 Focused on building reliable backend systems, full-stack applications, and data-driven software.
 
 <samp>
-<a href="YOUR_PORTFOLIO_URL">portfolio</a> ·
-<a href="YOUR_LINKEDIN_URL">linkedin</a> ·
-<a href="YOUR_LEETCODE_URL">leetcode</a> ·
-<a href="mailto:YOUR_EMAIL">mail</a>
+<a href="IN PROGRESS">portfolio</a> ·
+<a href="www.linkedin.com/in/parthjadhav85">linkedin</a> ·
+<a href="https://leetcode.com/u/3eeQeHbIv6/">leetcode</a> ·
+<a href="mailto:parth.dev.contact@gmail.com">mail</a>
 </samp>
 
 </div>
