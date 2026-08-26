@@ -2,7 +2,7 @@
 
 # Parth Jadhav
 
-Focused on building reliable backend systems, full-stack applications, and data-driven software.
+Focused on building reliable backend systems, full-stack applications, and data-driven software..
 
 <samp>
 <a href="IN_PROGRESS">portfolio</a> ·
