@@ -5,7 +5,7 @@
 Focused on building reliable backend systems, full-stack applications, and data-driven software..
 
 <samp>
-<a href="IN_PROGRESS">portfolio</a> ·
+<a href="https://parthjadhav-portfolio.vercel.app/">portfolio</a> ·
 <a href="https://www.linkedin.com/in/parthjadhav85/">linkedin</a> ·
 <a href="https://leetcode.com/u/3eeQeHbIv6/">leetcode</a> ·
 <a href="mailto:parth.dev.contact@gmail.com">mail</a>
